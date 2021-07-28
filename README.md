@@ -3,9 +3,9 @@
 This repository contains the source code and the pre-print of the paper: Evolutionary Architecture Search for Graph Neural Networks.
 
 # Citing this repository/paper
-The paper has been posted to arXiv at https://arxiv.org/abs/2009.10199
+The paper has been posted on arXiv https://arxiv.org/abs/2009.10199
 
-If your research used the code here or inspired by our paper, then please cite it:
+If your research used the code here or was inspired by our paper, then please cite the paper as:
 
 <pre><code>@article{shi2020evolutionary,
   title={Evolutionary architecture search for graph neural networks},
