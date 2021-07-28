@@ -3,7 +3,7 @@
 This repository contains the source code and the pre-print paper.
 
 # Citing this repository
-Please cite this repository using:
+Please cite this paper using:
 
 <pre><code>@misc{shi2020evolutionary,
   author = {Shi, Min and Wilson, David A and Zhu, Xingquan and Huang, Yu and Zhuang, Yuan and Liu, Jianxun and Tang, Yufei},
